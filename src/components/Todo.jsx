@@ -8,12 +8,12 @@ const Todo = () => {
   const [todoList, setTodoList] = useState([
     {
       id: 12345,
-      todo: "This is my first task",
+      todo: "Keep learning",
       isCompleted: false,
     },
     {
       id: 12346,
-      todo: "This is my second task",
+      todo: "Stop worrying",
       isCompleted: true,
     },
   ]);
